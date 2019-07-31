@@ -16,7 +16,7 @@
 	<distributionManagement>
 		<snapshotRepository>
 			<id>maven-snapshots</id>
-			<url>http://34.207.199.195:8081/repository/maven-snapshots/</url>
+			<url>http://34.229.239.44:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 	<dependencies>
@@ -57,7 +57,7 @@
 				</executions>
 				<configuration>
 					<serverId>nexus</serverId>
-					<nexusUrl>http://34.207.199.195:8081/nexus/</nexusUrl>
+					<nexusUrl>http://34.229.239.44:8081/nexus/</nexusUrl>
 					<skipStaging>true</skipStaging>
 				</configuration>
 			</plugin>
