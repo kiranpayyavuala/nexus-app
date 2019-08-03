@@ -62,5 +62,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>nexusapp</finalName>
 	</build>
 </project>
